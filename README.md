@@ -18,7 +18,7 @@
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/raiyanrashid.prodhan.5/)
 [![Messenger Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/raiyanrashid.prodhan.5)
 
-### I am experienced in the following Languages and Tools:
+### I am experienced in the following Languages and Technologies:
 
 [comment]: <> (#### IDE)
 [comment]: <> (#### Frameworks) 
