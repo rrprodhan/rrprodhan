@@ -1,7 +1,7 @@
 ### Hi! I'm Raiyan Rashid Prodhan
-- I'm an Associate Software Engineer at Intelletive Technologies Bangladesh
-  - Responsibilities:
-    - I build web applications using HTML, CSS, SASS, JavaScript, TypeScript, Bootstrap, Node.js, Angular, NestJS, PostgreSQL, Knex.js, Swagger API, Docker, Kubernetes and Object-Oriented Programming Principles.
+- With more than 2 years of experience in web development I currently work at Tekumo as a Junior Software Engineer
+  - Primary Responsibilities:
+    - I build web applications using Angular, Angular Material UI, TypeScript, SASS, JavaScript, TypeScript, Bootstrap, Node.js, NestJS, PostgreSQL, Knex.js, Swagger API, and Object-Oriented Programming Principles.
 - I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
 - I've a research paper entitled "Analyzing and Evaluating Boosting-Based CNN Algorithms for Image Classification" which has been presented at the IEEE International Conference on Intelligent Technologies (CONIT 2021), 25-27 June, 2021, Karnataka, India
 - I've experience of managing digital platforms of 20 reputed brands: 
