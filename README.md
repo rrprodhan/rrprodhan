@@ -1,5 +1,5 @@
 ### Hi! I'm Raiyan Rashid Prodhan
-- With more than 2 years of experience in web development I currently work at Tekumo as a Software Engineer
+- With more than 2 years of experience in web development I currently work at Tekumo as a Junior Software Engineer
   - Primary Responsibilities:
     - I build web applications using Angular, Angular Material UI, TypeScript, SASS, JavaScript, TypeScript, Bootstrap, Node.js, NestJS, PostgreSQL, Knex.js, Swagger API, and Object-Oriented Programming Principles.
 - I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
