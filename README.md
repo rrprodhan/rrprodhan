@@ -35,10 +35,10 @@
 <br/>
 <p></p>
 
+<img align="left" alt="Angular" height="31px" width="65px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="React" height="31px" width="65px" src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=angular&logoColor=blue" />
 <img align="left" alt="Bootstrap" height="31px" width="65px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="Material--UI" height="31px" width="65px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img align="left" alt="Angular" height="31px" width="65px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" alt="React" height="31px" width="65px" src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="Node.js" height="31px" width="65px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Express.js" height="31px" width="65px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="NestJS" height="31px" width="65px" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -57,6 +57,7 @@
 <img align="left" alt="Git" height="31px" width="65px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" height="31px" width="65px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Heroku" height="31px" width="65px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="left" alt="Firebase" height="31px" width="65px" src="https://img.shields.io/badge/Firebase-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 <br/>
 <p></p>
