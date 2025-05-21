@@ -1,11 +1,12 @@
 ### Hi! I'm Raiyan Rashid Prodhan
-- With more than 4 years of experience in web development I currently work at RIMES as a Full Stack Developer
+- Currently working as a Senior Full Stack Developer at The Regional Integrated Multi-Hazard Early Warning System (RIMES)
   - Primary Responsibilities:
     - I build web applications using Angular, Angular Material UI, TypeScript, SASS, JavaScript, TypeScript, Bootstrap, Node.js, NestJS, PostgreSQL, Knex.js, Swagger API, and Object-Oriented Programming Principles.
-- I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
-- I've a published research paper entitled "Analyzing and Evaluating Boosting-Based CNN Algorithms for Image Classification" which has been presented at the IEEE International Conference on Intelligent Technologies (CONIT 2021), 25-27 June, 2021, Karnataka, India
+- I've had the opportunity to work on globally impactful projects funded by the World Bank, the UN Environment Programme, the Green Climate Fund, and RIMES member countries. While I specialize in front‑end development, I am also proficient in full‑stack development and have a track record of delivering innovative solutions through collaboration with multicultural teams across multiple countries.
 - I've experience of managing digital platforms of 20 reputed brands: 
   - Samsung Bangladesh, Robi Axiata Ltd., Airtel Buzz, Hayes & Haier, Marico Bangladesh, Matador, Elite Paint, EBL Smart Women's Account, Apex Footwear, Shwapno, Aarong Dairy, TakeOut, Miyako, Golden Harvest, Meena Click, 2Go Bangladesh, ShopUp, Ribana, NITS Service (Pvt.) Ltd, Marks 
+- I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
+- I've a published research paper entitled "Analyzing and Evaluating Boosting-Based CNN Algorithms for Image Classification" which has been presented at the IEEE International Conference on Intelligent Technologies (CONIT 2021), 25-27 June, 2021, Karnataka, India
 - My hobbies are reading books and cooking
 
 [//]: # (<strong>Portfolio site  </strong> https://rakibulalam109.github.io/MyPortfolio.github.io/) 
